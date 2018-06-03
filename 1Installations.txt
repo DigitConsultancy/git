@@ -1,0 +1,12 @@
+1.Install and configure git. Then open git bash
+  git config --global user.name "Sid"
+  git config --global user.email "sid28gunner@gmail.com"
+  git config --list
+  git --help
+  git help add
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git remote add origin https://github.com/DigitConsultancy/git.git
+  git push -u origin master
+  
